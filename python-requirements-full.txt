@@ -48,6 +48,6 @@ sphinx==2.1.2
 tika==1.15
 twine==1.13.0
 Unidecode==0.4.21
-urllib3==1.25.3
+urllib3==1.26.5
 us==1.0.0
 wrapt==1.10.11
